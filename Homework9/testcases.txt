@@ -1,0 +1,95 @@
+
+/*
+*  Zhiyuan(James) Zhang, Francesca Bueti, Alexander Vallorosi 
+*  I pledge my honor that I have abided by the Stevens Honor System.
+*/
+
+
+testcase 1:
+
+2,3,4,
+5,6,7,
+1,8,9
+
+Min sum: 9
+Values:  [2, 3, 4]
+
+
+
+
+testcase 2:
+
+1,2,3,4,
+11,11,11,11,
+22,22,22,22,
+33,33,33,33
+
+Min sum: 10
+Values:  [1, 2, 3, 4]
+
+
+
+
+testcase 3:
+
+13,24,3,2,1,
+5,6,7,12,34,
+5,6,7,8,9,
+7,6,5,4,3,
+90,99,88,4,1
+
+Min sum: 24
+Values:  [5, 6, 7, 3, 2, 1]
+
+
+
+
+testcase 4:
+
+235,124,4,6,
+64,2,341,99,
+111,6,543,4,
+546,512,9,54
+
+Min sum: 200
+Values:  [64, 2, 124, 4, 6]
+
+
+
+
+
+testcase 5:
+
+45,54,64,
+34,43,52,
+12,21,54
+
+Min sum: 87
+Values:  [12, 21, 54]
+
+
+
+
+
+testcase 6:
+
+3,5,
+4,2
+
+Min sum: 6
+Values:  [4, 2]
+
+
+
+
+
+testcase 7:
+
+1,5,4,6,
+1,5,4,3,
+1,7,8,9,
+1,1,1,1
+
+Min sum: 4
+Values:  [1, 1, 1, 1]
+

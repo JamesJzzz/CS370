@@ -1,0 +1,139 @@
+4
+add helloworld	
+add hiworld
+find he
+find h
+
+1
+2
+
+
+
+
+8
+add james
+add alex
+add fran
+add ian
+add keyboard
+add kathy
+find k
+find abc
+
+2
+0
+
+
+
+
+
+2
+add computer
+find class
+
+0
+
+
+
+
+
+3
+add science 
+add computer 
+find sc
+
+1
+
+
+
+
+4
+add application
+add apple
+add apply
+find appl
+
+3
+
+
+
+5
+add sony
+add samsung 
+add htc
+add samsamsam
+find s
+find sam
+
+3
+2
+
+
+
+
+7
+add newjersey
+add newyork
+add newmexico
+add nevermind
+find new
+find ne
+find n
+
+3
+4
+4
+
+
+
+
+8
+add james
+add alex
+add fran
+add ian
+add keyboard
+add kathy
+find k
+find abc
+
+2
+0
+
+
+
+
+
+0
+0
+
+
+
+
+20
+add clothes
+add documents
+add parking
+add school
+add professor
+add ohmygod
+add homework
+add housework
+add cloth
+add ohdeargod
+add schools
+add footlocker
+add pace
+add footaction
+find fo
+find cl
+find o
+find h
+find s
+
+2
+2
+2
+2
+2
+
